@@ -82,7 +82,7 @@ def calculate_sumifs(file, file_ext):
 
 
 # ==== Streamlit UI ====
-st.set_page_config(page_title="📊 Firm+Forecast Data Tool", layout="centered")
+st.set_page_config(page_title="📊 Firm+Forecast Tins", layout="centered")
 
 st.title("📊 Firm + Forecast Data Tool")
 
